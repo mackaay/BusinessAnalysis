@@ -1,4 +1,4 @@
 # BusinessAnalysis
-Coursera Course
-Foundations of marketing analytics
-ESSEC Business School
+#Coursera Course
+#Foundations of marketing analytics
+#ESSEC Business School
